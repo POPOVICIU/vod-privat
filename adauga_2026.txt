@@ -1,0 +1,3 @@
+# Scrie aici filmele noi pe 2 randuri (Nume si Link) si ruleaza scriptul:
+#Exemplu Film 2026
+#https://link-direct-film-2026.mp4
